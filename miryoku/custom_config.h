@@ -54,5 +54,5 @@ MIRYOKU_X(FUN,    "Fun")
 #define U_MOUSE  5
 #define U_MEDIA  6
 #define U_NUM    7
+#define U_FUN    8
 //#define U_SYM    8
-#define U_FUN    9
