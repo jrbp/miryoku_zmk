@@ -1,9 +1,7 @@
 // Copyright 2024 Custom User
 // https://github.com/manna-harbour/miryoku
 
-#define MIRYOKU_KLUDGE_MOUSEKEYSPR
-
-#define XXX &none
+//#define MIRYOKU_KLUDGE_MOUSEKEYSPR
 
 #define MIRYOKU_LAYER_BASE \
 &kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             \
