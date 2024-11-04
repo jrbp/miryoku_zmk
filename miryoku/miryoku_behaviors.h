@@ -5,5 +5,3 @@
 
 #define U_MT(MOD, TAP) &u_mt MOD TAP
 #define U_LT(LAYER, TAP) &u_lt LAYER TAP
-#define U_MTTL(MOD, TAP) &u_mttl MOD TAP
-#define U_MTTR(MOD, TAP) &u_mttr MOD TAP
